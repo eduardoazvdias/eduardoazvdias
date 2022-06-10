@@ -1,9 +1,10 @@
 <h2>Olá, meu nome é Eduardo Dias <br> </h2>
 <img align="right" alt="Arya-icon" src="https://cdn.discordapp.com/attachments/941093408586489916/984599386828980224/IMG_7070.JPG" height="180" width="250">
  👨‍👩‍👧 Tenho 25 Anos, casado e pai da Arya, apaixonado por tecnologia e games; <br> <br>
- 🎓 Análise e Desenvolvimento de Sistemas.<br>
- 🎓 Bolsa Santander de Tecnologia - Trilha Fullstack Developer. <br>
- 🎓 CS50 Introduction to Computer Science em HarvardX.
+ 🎓 Análise e Desenvolvimento de Sistemas - <i>Estácio.</i> <br>
+ 🎓 Trilha Fullstack Developer - <i>Bolsa Santander de Tecnologia</i> <br>
+ 🎓 CS50 Introduction to Computer Science - <i>HarvardX.</i> <br><br>
+ 🖥️ Em busca do meu espaço no mundo do Front-End e suas tecnologias.
 </div><br><br><br>
 <u><i> "What i cannot create, i do not understand" <b>Richard Feynman </i></u></b>
 <div style="display: inline_block"><br>
@@ -22,7 +23,7 @@
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+</div><br>
 <i><h2>Onde você pode me encontrar:</i></h2>
 <div> 
   <a href="https://instagram.com/eduardovdiaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
