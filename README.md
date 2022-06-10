@@ -1,14 +1,27 @@
-<h2> Olá, meu nome é Eduardo Dias <br> </h2>
-<img align="right" alt="Edu-icon" style="border-radius:100px" src="https://cdn.discordapp.com/attachments/941093408586489916/984599386828980224/IMG_7070.JPG" height="150" width="210">
-<h4>Pai da Arya, 25 anos, estudante de Análise e Desenvolvimento de Sistemas</h4>
-</div>
-<div style="display: inline_block"><br><br><br>
+<h2>Olá, meu nome é Eduardo Dias <br> </h2>
+<img align="right" alt="Arya-icon" src="https://cdn.discordapp.com/attachments/941093408586489916/984599386828980224/IMG_7070.JPG" height="180" width="250">
+ 👨‍👩‍👧 Tenho 25 Anos, casado e pai da Arya, apaixonado por tecnologia e games; <br> <br>
+ 🎓 Análise e Desenvolvimento de Sistemas.<br>
+ 🎓 Bolsa Santander de Tecnologia - Trilha Fullstack Developer. <br>
+ 🎓 CS50 Introduction to Computer Science em HarvardX.
+</div><br><br><br>
+<u><i> "What i cannot create, i do not understand" <b>Richard Feynman </i></u></b>
+<div style="display: inline_block"><br>
   <i><h2>Possuo conhecimentos em: </i></h2>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Edu-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Edu-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  
+</div>
+<div style="display: inline_block"><br>
+  <i><h2>Adquirindo conhecimento em: </i></h2>
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 <i><h2>Onde você pode me encontrar:</i></h2>
 <div> 
