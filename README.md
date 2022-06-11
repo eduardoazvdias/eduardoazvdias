@@ -1,6 +1,6 @@
 <h2>Olá, meu nome é Eduardo Dias <br> </h2>
 <img align="right" alt="Arya-icon" src="https://cdn.discordapp.com/attachments/941093408586489916/984599386828980224/IMG_7070.JPG" height="180" width="250">
- 👨‍👩‍👧 Tenho 25 Anos, casado e pai da Arya, apaixonado por tecnologia e games; <br> <br>
+ 👨‍👩‍👧 Tenho 25 Anos, casado e pai da Arya, apaixonado por tecnologia e games. <br> <br>
  🎓 Análise e Desenvolvimento de Sistemas - <i>Estácio.</i> <br>
  🎓 Trilha Fullstack Developer - <i>Bolsa Santander de Tecnologia</i> <br>
  🎓 CS50 Introduction to Computer Science - <i>HarvardX.</i> <br><br>
