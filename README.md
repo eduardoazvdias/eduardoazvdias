@@ -4,9 +4,9 @@
  🎓 Análise e Desenvolvimento de Sistemas - <i>Estácio.</i> <br>
  🎓 Trilha Fullstack Developer - <i>Bolsa Santander de Tecnologia</i> <br>
  🎓 CS50 Introduction to Computer Science - <i>HarvardX.</i> <br><br>
- 🖥️ Em busca do meu espaço no mundo do Front-End e suas tecnologias.
+
 </div><br><br><br>
-<u><i> "What i cannot create, i do not understand" <b>Richard Feynman </i></u></b>
+ <u><i> "What i cannot create, i do not understand" <b>Richard Feynman </i></u></b> 
 
 <div style="display: inline_block"><br>
   <i><h2>Possuo conhecimentos em: </i></h2>
